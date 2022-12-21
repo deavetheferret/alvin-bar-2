@@ -6,6 +6,8 @@ The ALVIN BAR project is a full ended fake project imagined and created only for
 
 ### Gallery
 
+<img src="">
+
 ## Technologies used or learned
 
 ### Little list of all the technology I learned or used to make this website.
