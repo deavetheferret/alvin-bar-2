@@ -22,7 +22,7 @@ The ALVIN BAR project is a full ended fake project imagined and created only for
 - GSAP : for scroll trigger elements
 ```
 
-### List of evaluated knowledge
+### List of evaluated knowledge
 
 ```
 - Development environment
