@@ -2,19 +2,19 @@
 
 ## Introduction
 
-The ALVIN BAR project is a full ended fake project imagined and created only for a school exercice.
+The ALVIN BAR project is a fictional project imagined and created for a school exercice.
 
 ### Gallery
 
 <img src="src/img/mockup-site-tamer.png">
 
-## Technologies used or learned
+## Technologies used and learned
 
-### Little list of all the technology I learned or used to make this website.
+### Little list of all the technologies I learned and used to make this website.
 
 ```
 - Sketch : for the UI part
-- Visual studio code : for the frontend development part.
+- Visual studio code : for the frontend development part
 - HTML 5 : obviously
 - CSS 3 : obviously too
 - JavaScript : for interactions
@@ -34,11 +34,11 @@ The ALVIN BAR project is a full ended fake project imagined and created only for
 - Transitions
 ```
 
-All those knowledge base are learned and understood by the way.
+All of these criterias have been learned and mastered.
 
 ## Useful links
 
-here you can find some of useful links about me.
+Here are more links to my work.
 
 ```
 https://www.behance.net/franoisdevantay
